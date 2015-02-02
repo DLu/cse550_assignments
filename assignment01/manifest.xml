@@ -1,0 +1,12 @@
+<package>
+  <description brief="assignment01">
+     assignment01
+  </description>
+  <author></author>
+  <license>BSD</license>
+  <depend package="rospy"/>
+  <depend package="geometry_msgs"/>
+  <depend package="nav_msgs"/>
+  <depend package="wheeled_robot_kinematics"/>
+  <depend package="tf"/>
+</package>
