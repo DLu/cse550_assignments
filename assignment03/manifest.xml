@@ -1,0 +1,12 @@
+<package>
+  <description brief="assignment03">
+  </description>
+  <author></author>
+  <license>BSD</license>
+  <depend package="rospy"/>
+  <depend package="geometry_msgs"/>
+  <depend package="sensor_msgs"/>
+
+</package>
+
+
